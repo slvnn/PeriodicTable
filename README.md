@@ -1,23 +1,22 @@
-# Periodic Table (SwiftUI)
+<img width="100" height="100" alt="icon" src="https://github.com/user-attachments/assets/1a8641da-2a54-4d20-b335-dd98b9d33ced" />
 
-A lightweight, dark-themed SwiftUI app that lets you browse elements of the periodic table, search by name/symbol/atomic number, and view a detail sheet with key properties and a short description.
+# Periodic Table - SwiftUI
+
+
+A lightweight, SwiftUI app that lets you browse elements of the periodic table, search, and view a detail sheet with key properties and a short description.
 
 ## Features
 
 - Clean two-column grid with translucent cards
-- Fast, case-insensitive search across name, symbol, and atomic number
-- Detail view with atomic mass, melting/boiling points, and year of discovery
+- Fast searching
+- Detail view with atomic mass, melting/boiling points, year of discovery and a description
 - Fully in SwiftUI with a simple local JSON data source
 
 ## Screenshots
+<img width="300" height="2622" alt="1" src="https://github.com/user-attachments/assets/bf0d0e6c-e3a9-41a3-8e6c-d82d587d3684" />
 
-Add your screenshots in this section (e.g., from the iOS Simulator) and reference them here.
+<img width="300" height="2622" alt="2" src="https://github.com/user-attachments/assets/25b537d3-2133-4fd4-bcc6-2e0ceae6b3f1" />
 
-## Tech stack
-
-- Swift 5, SwiftUI
-- NavigationStack for modern navigation
-- Local JSON (`elements.json`) decoded via `Codable`
 
 ## Project structure
 
@@ -27,17 +26,17 @@ PeriodicTable/
 ├─ Bundle-Decodable.swift             # JSON decoding helper
 ├─ Elements.swift                     # Data models (Element, Elements)
 ├─ elements.json                      # Local dataset (subset of elements)
-├─ Assets.xcassets/                   # App icons, colors
+├─ Assets.xcassets/                   # App icon
 └─ Views/
-   ├─ ContentView.swift               # Grid + search
-   ├─ ElementGridView.swift           # Grid cell
-   └─ ElementView.swift               # Detail view
+   ├─ ContentView.swift               
+   ├─ ElementGridView.swift           
+   └─ ElementView.swift               
 ```
 
 ## Requirements
 
 - Xcode 15 or newer
-- iOS 16+ (uses `NavigationStack`)
+- iOS 17+ (uses `NavigationStack`)
 
 ## Getting started
 
@@ -68,20 +67,10 @@ The app loads `elements.json` from the bundle. The dataset currently includes a 
 }
 ```
 
-## Notes and improvements
 
-- Search now matches name, symbol, and atomic number (case-insensitive)
-- Atomic mass is formatted to up to 3 decimal places
-- Avoid nested navigation by letting the detail view inherit the parent `NavigationStack`
-- Potential enhancements:
-  - Add full dataset (up to 118)
-  - Color-code cards by group/phase
-  - Add sorting and filters
-  - Add accessibility labels and Dynamic Type support
-  - Add unit tests for decoding and simple UI tests
 
 ## License
 
-Choose a license (e.g., MIT) before publishing. If you pick MIT, add a `LICENSE` file at the repository root.
+MIT License – see [LICENSE](https://github.com/slvnn/PeriodicTable/blob/main/LICENSE) for details.
 
 
