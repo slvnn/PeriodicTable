@@ -1,0 +1,944 @@
+{
+   "elements": [
+      {
+         "id": 1,
+         "name": "Hydrogen",
+         "symbol": "H",
+         "atomicMass": 1.008,
+         "melting": -259,
+         "boiling": -253,
+         "yearDiscovery": 1766,
+         "description": "Hydrogen is the lightest element and the most abundant in the universe. First isolated by Henry Cavendish in 1766. Hydrogen (H, atomic mass 1.008) has a melting point of -259\u00b0C and a boiling point of -253\u00b0C. It was first discovered or isolated in 1766. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 2,
+         "name": "Helium",
+         "symbol": "He",
+         "atomicMass": 4.002602,
+         "melting": null,
+         "boiling": -269,
+         "yearDiscovery": 1868,
+         "description": "Helium is a noble gas discovered in the Sun\u2019s spectrum in 1868 and later isolated on Earth. Helium (He, atomic mass 4.002602) has a boiling point of -269\u00b0C. It was first discovered or isolated in 1868. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 3,
+         "name": "Lithium",
+         "symbol": "Li",
+         "atomicMass": 6.94,
+         "melting": 181,
+         "boiling": 1342,
+         "yearDiscovery": 1817,
+         "description": "Lithium is a soft, silvery alkali metal used in batteries; isolated in 1817. Lithium (Li, atomic mass 6.94) has a melting point of 181\u00b0C and a boiling point of 1342\u00b0C. It was first discovered or isolated in 1817. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 4,
+         "name": "Beryllium",
+         "symbol": "Be",
+         "atomicMass": 9.0121831,
+         "melting": 1287,
+         "boiling": 2470,
+         "yearDiscovery": 1798,
+         "description": "Beryllium is a lightweight, stiff metal used in aerospace applications; discovered in 1798. Beryllium (Be, atomic mass 9.0121831) has a melting point of 1287\u00b0C and a boiling point of 2470\u00b0C. It was first discovered or isolated in 1798. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 5,
+         "name": "Boron",
+         "symbol": "B",
+         "atomicMass": 10.81,
+         "melting": 2075,
+         "boiling": 4000,
+         "yearDiscovery": 1808,
+         "description": "Boron is a metalloid used in borosilicate glass and detergents; first isolated in 1808. Boron (B, atomic mass 10.81) has a melting point of 2075\u00b0C and a boiling point of 4000\u00b0C. It was first discovered or isolated in 1808. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 6,
+         "name": "Carbon",
+         "symbol": "C",
+         "atomicMass": 12.011,
+         "melting": 3550,
+         "boiling": 4827,
+         "yearDiscovery": null,
+         "description": "Carbon is a fundamental element of life with allotropes like graphite and diamond; known since ancient times. Carbon (C, atomic mass 12.011) has a melting point of 3550\u00b0C and a boiling point of 4827\u00b0C. Its discovery dates back to ancient times or is not precisely recorded. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 7,
+         "name": "Nitrogen",
+         "symbol": "N",
+         "atomicMass": 14.007,
+         "melting": -210,
+         "boiling": -196,
+         "yearDiscovery": 1772,
+         "description": "Nitrogen comprises most of Earth\u2019s atmosphere; isolated by Daniel Rutherford in 1772. Nitrogen (N, atomic mass 14.007) has a melting point of -210\u00b0C and a boiling point of -196\u00b0C. It was first discovered or isolated in 1772. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 8,
+         "name": "Oxygen",
+         "symbol": "O",
+         "atomicMass": 15.999,
+         "melting": -218,
+         "boiling": -183,
+         "yearDiscovery": 1774,
+         "description": "Oxygen is essential for respiration and combustion; discovered by Priestley and Scheele in the 1770s. Oxygen (O, atomic mass 15.999) has a melting point of -218\u00b0C and a boiling point of -183\u00b0C. It was first discovered or isolated in 1774. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 9,
+         "name": "Fluorine",
+         "symbol": "F",
+         "atomicMass": 18.998403163,
+         "melting": -220,
+         "boiling": -188,
+         "yearDiscovery": 1886,
+         "description": "Fluorine is a highly reactive halogen used in fluoropolymers like Teflon; isolated by Moissan in 1886. Fluorine (F, atomic mass 18.998403163) has a melting point of -220\u00b0C and a boiling point of -188\u00b0C. It was first discovered or isolated in 1886. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 10,
+         "name": "Neon",
+         "symbol": "Ne",
+         "atomicMass": 20.1797,
+         "melting": -249,
+         "boiling": -246,
+         "yearDiscovery": 1898,
+         "description": "Neon is a noble gas used in neon signs and lighting; discovered in 1898. Neon (Ne, atomic mass 20.1797) has a melting point of -249\u00b0C and a boiling point of -246\u00b0C. It was first discovered or isolated in 1898. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 11,
+         "name": "Sodium",
+         "symbol": "Na",
+         "atomicMass": 22.98976928,
+         "melting": 98,
+         "boiling": 883,
+         "yearDiscovery": null,
+         "description": "Sodium is a highly reactive alkali metal essential in salts; known for centuries, isolated in the 19th century. Sodium (Na, atomic mass 22.98976928) has a melting point of 98\u00b0C and a boiling point of 883\u00b0C. Its discovery dates back to ancient times or is not precisely recorded. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 12,
+         "name": "Magnesium",
+         "symbol": "Mg",
+         "atomicMass": 24.305,
+         "melting": 650,
+         "boiling": 1090,
+         "yearDiscovery": 1755,
+         "description": "Magnesium is a light, strong metal used in alloys; identified in the mid-18th century. Magnesium (Mg, atomic mass 24.305) has a melting point of 650\u00b0C and a boiling point of 1090\u00b0C. It was first discovered or isolated in 1755. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 13,
+         "name": "Aluminum",
+         "symbol": "Al",
+         "atomicMass": 26.9815385,
+         "melting": 660,
+         "boiling": 2470,
+         "yearDiscovery": 1825,
+         "description": "Aluminum is a lightweight, corrosion-resistant metal widely used in packaging and aerospace; isolated in 1825. Aluminum (Al, atomic mass 26.9815385) has a melting point of 660\u00b0C and a boiling point of 2470\u00b0C. It was first discovered or isolated in 1825. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 14,
+         "name": "Silicon",
+         "symbol": "Si",
+         "atomicMass": 28.085,
+         "melting": 1414,
+         "boiling": 2900,
+         "yearDiscovery": 1824,
+         "description": "Silicon is a semiconductor and major component of Earth's crust; isolated in 1824. Silicon (Si, atomic mass 28.085) has a melting point of 1414\u00b0C and a boiling point of 2900\u00b0C. It was first discovered or isolated in 1824. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 15,
+         "name": "Phosphorus",
+         "symbol": "P",
+         "atomicMass": 30.973761998,
+         "melting": 44,
+         "boiling": 280,
+         "yearDiscovery": 1669,
+         "description": "Phosphorus is essential for life and fertilizers; first isolated in 1669 by Hennig Brand. Phosphorus (P, atomic mass 30.973761998) has a melting point of 44\u00b0C and a boiling point of 280\u00b0C. It was first discovered or isolated in 1669. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 16,
+         "name": "Sulfur",
+         "symbol": "S",
+         "atomicMass": 32.06,
+         "melting": 115,
+         "boiling": 444,
+         "yearDiscovery": null,
+         "description": "Sulfur is a non-metal used in sulfuric acid and vulcanization; known since antiquity. Sulfur (S, atomic mass 32.06) has a melting point of 115\u00b0C and a boiling point of 444\u00b0C. Its discovery dates back to ancient times or is not precisely recorded. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 17,
+         "name": "Chlorine",
+         "symbol": "Cl",
+         "atomicMass": 35.45,
+         "melting": -101,
+         "boiling": -34,
+         "yearDiscovery": 1774,
+         "description": "Chlorine is a reactive halogen used for disinfection and in syntheses; isolated in 1774. Chlorine (Cl, atomic mass 35.45) has a melting point of -101\u00b0C and a boiling point of -34\u00b0C. It was first discovered or isolated in 1774. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 18,
+         "name": "Argon",
+         "symbol": "Ar",
+         "atomicMass": 39.948,
+         "melting": -189,
+         "boiling": -186,
+         "yearDiscovery": 1894,
+         "description": "Argon is a noble gas used in inert atmospheres and lighting; discovered in 1894. Argon (Ar, atomic mass 39.948) has a melting point of -189\u00b0C and a boiling point of -186\u00b0C. It was first discovered or isolated in 1894. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 19,
+         "name": "Potassium",
+         "symbol": "K",
+         "atomicMass": 39.0983,
+         "melting": 63,
+         "boiling": 759,
+         "yearDiscovery": 1807,
+         "description": "Potassium is an essential alkali metal in biology; isolated by Davy in 1807. Potassium (K, atomic mass 39.0983) has a melting point of 63\u00b0C and a boiling point of 759\u00b0C. It was first discovered or isolated in 1807. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 20,
+         "name": "Calcium",
+         "symbol": "Ca",
+         "atomicMass": 40.078,
+         "melting": 842,
+         "boiling": 1484,
+         "yearDiscovery": 1808,
+         "description": "Calcium is essential for bones and used in construction; isolated in 1808. Calcium (Ca, atomic mass 40.078) has a melting point of 842\u00b0C and a boiling point of 1484\u00b0C. It was first discovered or isolated in 1808. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 21,
+         "name": "Scandium",
+         "symbol": "Sc",
+         "atomicMass": 44.955908,
+         "melting": 1541,
+         "boiling": 2836,
+         "yearDiscovery": 1879,
+         "description": "Scandium is a light transition metal used in aerospace alloys; discovered in 1879. Scandium (Sc, atomic mass 44.955908) has a melting point of 1541\u00b0C and a boiling point of 2836\u00b0C. It was first discovered or isolated in 1879. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 22,
+         "name": "Titanium",
+         "symbol": "Ti",
+         "atomicMass": 47.867,
+         "melting": 1668,
+         "boiling": 3287,
+         "yearDiscovery": 1791,
+         "description": "Titanium is a strong, corrosion-resistant metal used in aerospace and implants; discovered in 1791. Titanium (Ti, atomic mass 47.867) has a melting point of 1668\u00b0C and a boiling point of 3287\u00b0C. It was first discovered or isolated in 1791. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 23,
+         "name": "Vanadium",
+         "symbol": "V",
+         "atomicMass": 50.9415,
+         "melting": 1910,
+         "boiling": 3407,
+         "yearDiscovery": 1801,
+         "description": "Vanadium is used to strengthen steel alloys; discovered in 1801. Vanadium (V, atomic mass 50.9415) has a melting point of 1910\u00b0C and a boiling point of 3407\u00b0C. It was first discovered or isolated in 1801. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 24,
+         "name": "Chromium",
+         "symbol": "Cr",
+         "atomicMass": 51.9961,
+         "melting": 1907,
+         "boiling": 2672,
+         "yearDiscovery": 1797,
+         "description": "Chromium provides shine and corrosion resistance; discovered in 1797. Chromium (Cr, atomic mass 51.9961) has a melting point of 1907\u00b0C and a boiling point of 2672\u00b0C. It was first discovered or isolated in 1797. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 25,
+         "name": "Manganese",
+         "symbol": "Mn",
+         "atomicMass": 54.938044,
+         "melting": 1246,
+         "boiling": 2061,
+         "yearDiscovery": 1774,
+         "description": "Manganese is used in steel alloys and batteries; recognized in the 18th century. Manganese (Mn, atomic mass 54.938044) has a melting point of 1246\u00b0C and a boiling point of 2061\u00b0C. It was first discovered or isolated in 1774. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 26,
+         "name": "Iron",
+         "symbol": "Fe",
+         "atomicMass": 55.845,
+         "melting": 1538,
+         "boiling": 2862,
+         "yearDiscovery": null,
+         "description": "Iron is a structural metal critical to history; known since ancient times. Iron (Fe, atomic mass 55.845) has a melting point of 1538\u00b0C and a boiling point of 2862\u00b0C. Its discovery dates back to ancient times or is not precisely recorded. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 27,
+         "name": "Cobalt",
+         "symbol": "Co",
+         "atomicMass": 58.933194,
+         "melting": 1495,
+         "boiling": 2927,
+         "yearDiscovery": 1735,
+         "description": "Cobalt is a hard metal used in magnets and pigments; isolated in 1735. Cobalt (Co, atomic mass 58.933194) has a melting point of 1495\u00b0C and a boiling point of 2927\u00b0C. It was first discovered or isolated in 1735. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 28,
+         "name": "Nickel",
+         "symbol": "Ni",
+         "atomicMass": 58.6934,
+         "melting": 1455,
+         "boiling": 2913,
+         "yearDiscovery": 1751,
+         "description": "Nickel resists corrosion and is used in coins and stainless steel; identified in 1751. Nickel (Ni, atomic mass 58.6934) has a melting point of 1455\u00b0C and a boiling point of 2913\u00b0C. It was first discovered or isolated in 1751. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 29,
+         "name": "Copper",
+         "symbol": "Cu",
+         "atomicMass": 63.546,
+         "melting": 1085,
+         "boiling": 2562,
+         "yearDiscovery": null,
+         "description": "Copper is highly conductive and used in wiring; known since prehistoric times. Copper (Cu, atomic mass 63.546) has a melting point of 1085\u00b0C and a boiling point of 2562\u00b0C. Its discovery dates back to ancient times or is not precisely recorded. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 30,
+         "name": "Zinc",
+         "symbol": "Zn",
+         "atomicMass": 65.38,
+         "melting": 420,
+         "boiling": 907,
+         "yearDiscovery": 1500,
+         "description": "Zinc is used in galvanizing and alloys; isolated in the 16th century. Zinc (Zn, atomic mass 65.38) has a melting point of 420\u00b0C and a boiling point of 907\u00b0C. It was first discovered or isolated in 1500. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 31,
+         "name": "Gallium",
+         "symbol": "Ga",
+         "atomicMass": 69.723,
+         "melting": 30,
+         "boiling": 2410,
+         "yearDiscovery": 1875,
+         "description": "Gallium is a soft metal used in semiconductors and LEDs; discovered in 1875. Gallium (Ga, atomic mass 69.723) has a melting point of 30\u00b0C and a boiling point of 2410\u00b0C. It was first discovered or isolated in 1875. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 32,
+         "name": "Germanium",
+         "symbol": "Ge",
+         "atomicMass": 72.63,
+         "melting": 938,
+         "boiling": 2833,
+         "yearDiscovery": 1886,
+         "description": "Germanium is a semiconductor used in electronics; identified in 1886. Germanium (Ge, atomic mass 72.63) has a melting point of 938\u00b0C and a boiling point of 2833\u00b0C. It was first discovered or isolated in 1886. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 33,
+         "name": "Arsenic",
+         "symbol": "As",
+         "atomicMass": 74.921595,
+         "melting": 817,
+         "boiling": 615,
+         "yearDiscovery": null,
+         "description": "Arsenic is a metalloid known for toxicity and alloys; known since antiquity. Arsenic (As, atomic mass 74.921595) has a melting point of 817\u00b0C and a boiling point of 615\u00b0C. Its discovery dates back to ancient times or is not precisely recorded. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 34,
+         "name": "Selenium",
+         "symbol": "Se",
+         "atomicMass": 78.971,
+         "melting": 217,
+         "boiling": 685,
+         "yearDiscovery": 1817,
+         "description": "Selenium is used in photocells and glass; discovered in 1817. Selenium (Se, atomic mass 78.971) has a melting point of 217\u00b0C and a boiling point of 685\u00b0C. It was first discovered or isolated in 1817. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 35,
+         "name": "Bromine",
+         "symbol": "Br",
+         "atomicMass": 79.904,
+         "melting": -7,
+         "boiling": 59,
+         "yearDiscovery": 1826,
+         "description": "Bromine is a liquid halogen used in flame retardants; discovered in 1826. Bromine (Br, atomic mass 79.904) has a melting point of -7\u00b0C and a boiling point of 59\u00b0C. It was first discovered or isolated in 1826. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 36,
+         "name": "Krypton",
+         "symbol": "Kr",
+         "atomicMass": 83.798,
+         "melting": -157,
+         "boiling": -153,
+         "yearDiscovery": 1898,
+         "description": "Krypton is a noble gas used in lighting and photography; discovered in 1898. Krypton (Kr, atomic mass 83.798) has a melting point of -157\u00b0C and a boiling point of -153\u00b0C. It was first discovered or isolated in 1898. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 37,
+         "name": "Rubidium",
+         "symbol": "Rb",
+         "atomicMass": 85.4678,
+         "melting": 39,
+         "boiling": 688,
+         "yearDiscovery": 1861,
+         "description": "Rubidium is highly reactive and used in electronics; discovered in 1861. Rubidium (Rb, atomic mass 85.4678) has a melting point of 39\u00b0C and a boiling point of 688\u00b0C. It was first discovered or isolated in 1861. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 38,
+         "name": "Strontium",
+         "symbol": "Sr",
+         "atomicMass": 87.62,
+         "melting": 777,
+         "boiling": 1382,
+         "yearDiscovery": 1790,
+         "description": "Strontium is used in fireworks and magnets; recognized in 1790. Strontium (Sr, atomic mass 87.62) has a melting point of 777\u00b0C and a boiling point of 1382\u00b0C. It was first discovered or isolated in 1790. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 39,
+         "name": "Yttrium",
+         "symbol": "Y",
+         "atomicMass": 88.90584,
+         "melting": 1526,
+         "boiling": 3338,
+         "yearDiscovery": 1794,
+         "description": "Yttrium is used in electronics and phosphors; discovered in 1794. Yttrium (Y, atomic mass 88.90584) has a melting point of 1526\u00b0C and a boiling point of 3338\u00b0C. It was first discovered or isolated in 1794. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 40,
+         "name": "Zirconium",
+         "symbol": "Zr",
+         "atomicMass": 91.224,
+         "melting": 1855,
+         "boiling": 4377,
+         "yearDiscovery": 1789,
+         "description": "Zirconium is corrosion-resistant and used in nuclear reactors; identified in 1789. Zirconium (Zr, atomic mass 91.224) has a melting point of 1855\u00b0C and a boiling point of 4377\u00b0C. It was first discovered or isolated in 1789. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 41,
+         "name": "Niobium",
+         "symbol": "Nb",
+         "atomicMass": 92.90637,
+         "melting": 2477,
+         "boiling": 4744,
+         "yearDiscovery": 1801,
+         "description": "Niobium is used in superconductors and aerospace; discovered in 1801. Niobium (Nb, atomic mass 92.90637) has a melting point of 2477\u00b0C and a boiling point of 4744\u00b0C. It was first discovered or isolated in 1801. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 42,
+         "name": "Molybdenum",
+         "symbol": "Mo",
+         "atomicMass": 95.95,
+         "melting": 2623,
+         "boiling": 4639,
+         "yearDiscovery": 1778,
+         "description": "Molybdenum is a high-temperature metal used in alloys; recognized in 1778. Molybdenum (Mo, atomic mass 95.95) has a melting point of 2623\u00b0C and a boiling point of 4639\u00b0C. It was first discovered or isolated in 1778. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 43,
+         "name": "Technetium",
+         "symbol": "Tc",
+         "atomicMass": 98,
+         "melting": 2157,
+         "boiling": 4265,
+         "yearDiscovery": 1937,
+         "description": "Technetium is the lightest synthetic element, radioactive and used in medical imaging. Technetium (Tc, atomic mass 98) has a melting point of 2157\u00b0C and a boiling point of 4265\u00b0C. It was first discovered or isolated in 1937. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 44,
+         "name": "Ruthenium",
+         "symbol": "Ru",
+         "atomicMass": 101.07,
+         "melting": 2334,
+         "boiling": 4150,
+         "yearDiscovery": 1844,
+         "description": "Ruthenium is a platinum-group metal used in electronics and catalysis. Ruthenium (Ru, atomic mass 101.07) has a melting point of 2334\u00b0C and a boiling point of 4150\u00b0C. It was first discovered or isolated in 1844. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 45,
+         "name": "Rhodium",
+         "symbol": "Rh",
+         "atomicMass": 102.9055,
+         "melting": 1964,
+         "boiling": 3695,
+         "yearDiscovery": 1803,
+         "description": "Rhodium is used in catalytic converters and jewelry; discovered in 1803. Rhodium (Rh, atomic mass 102.9055) has a melting point of 1964\u00b0C and a boiling point of 3695\u00b0C. It was first discovered or isolated in 1803. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 46,
+         "name": "Palladium",
+         "symbol": "Pd",
+         "atomicMass": 106.42,
+         "melting": 1554,
+         "boiling": 2963,
+         "yearDiscovery": 1803,
+         "description": "Palladium is used in catalysts and electronics; discovered in 1803. Palladium (Pd, atomic mass 106.42) has a melting point of 1554\u00b0C and a boiling point of 2963\u00b0C. It was first discovered or isolated in 1803. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 47,
+         "name": "Silver",
+         "symbol": "Ag",
+         "atomicMass": 107.8682,
+         "melting": 962,
+         "boiling": 2162,
+         "yearDiscovery": null,
+         "description": "Silver is highly conductive and used in jewelry and electronics; known since antiquity. Silver (Ag, atomic mass 107.8682) has a melting point of 962\u00b0C and a boiling point of 2162\u00b0C. Its discovery dates back to ancient times or is not precisely recorded. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 48,
+         "name": "Cadmium",
+         "symbol": "Cd",
+         "atomicMass": 112.414,
+         "melting": 321,
+         "boiling": 767,
+         "yearDiscovery": 1817,
+         "description": "Cadmium is used in batteries and pigments; discovered in 1817. Cadmium (Cd, atomic mass 112.414) has a melting point of 321\u00b0C and a boiling point of 767\u00b0C. It was first discovered or isolated in 1817. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 49,
+         "name": "Indium",
+         "symbol": "In",
+         "atomicMass": 114.818,
+         "melting": 157,
+         "boiling": 2072,
+         "yearDiscovery": 1863,
+         "description": "Indium is used in semiconductors and solders; discovered in 1863. Indium (In, atomic mass 114.818) has a melting point of 157\u00b0C and a boiling point of 2072\u00b0C. It was first discovered or isolated in 1863. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 50,
+         "name": "Tin",
+         "symbol": "Sn",
+         "atomicMass": 118.71,
+         "melting": 232,
+         "boiling": 2602,
+         "yearDiscovery": null,
+         "description": "Tin is used in alloys like bronze and plating; known since ancient times. Tin (Sn, atomic mass 118.71) has a melting point of 232\u00b0C and a boiling point of 2602\u00b0C. Its discovery dates back to ancient times or is not precisely recorded. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 51,
+         "name": "Antimony",
+         "symbol": "Sb",
+         "atomicMass": 121.76,
+         "melting": 630,
+         "boiling": 1635,
+         "yearDiscovery": null,
+         "description": "Antimony is used in flame retardants and alloys; known since antiquity. Antimony (Sb, atomic mass 121.76) has a melting point of 630\u00b0C and a boiling point of 1635\u00b0C. Its discovery dates back to ancient times or is not precisely recorded. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 52,
+         "name": "Tellurium",
+         "symbol": "Te",
+         "atomicMass": 127.6,
+         "melting": 449,
+         "boiling": 988,
+         "yearDiscovery": 1782,
+         "description": "Tellurium is used in thermoelectrics and alloys; discovered in 1782. Tellurium (Te, atomic mass 127.6) has a melting point of 449\u00b0C and a boiling point of 988\u00b0C. It was first discovered or isolated in 1782. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 53,
+         "name": "Iodine",
+         "symbol": "I",
+         "atomicMass": 126.90447,
+         "melting": 114,
+         "boiling": 184,
+         "yearDiscovery": 1811,
+         "description": "Iodine is essential for thyroid function and antiseptics; discovered in 1811. Iodine (I, atomic mass 126.90447) has a melting point of 114\u00b0C and a boiling point of 184\u00b0C. It was first discovered or isolated in 1811. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 54,
+         "name": "Xenon",
+         "symbol": "Xe",
+         "atomicMass": 131.293,
+         "melting": -112,
+         "boiling": -108,
+         "yearDiscovery": 1898,
+         "description": "Xenon is a noble gas used in lighting and anesthetics; discovered in 1898. Xenon (Xe, atomic mass 131.293) has a melting point of -112\u00b0C and a boiling point of -108\u00b0C. It was first discovered or isolated in 1898. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 55,
+         "name": "Caesium",
+         "symbol": "Cs",
+         "atomicMass": 132.90545196,
+         "melting": 29,
+         "boiling": 671,
+         "yearDiscovery": 1860,
+         "description": "Caesium is a highly reactive alkali metal used in atomic clocks; discovered in 1860. Caesium (Cs, atomic mass 132.90545196) has a melting point of 29\u00b0C and a boiling point of 671\u00b0C. It was first discovered or isolated in 1860. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 56,
+         "name": "Barium",
+         "symbol": "Ba",
+         "atomicMass": 137.327,
+         "melting": 727,
+         "boiling": 1897,
+         "yearDiscovery": 1808,
+         "description": "Barium is used in drilling fluids and medical imaging; identified in the early 19th century. Barium (Ba, atomic mass 137.327) has a melting point of 727\u00b0C and a boiling point of 1897\u00b0C. It was first discovered or isolated in 1808. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 57,
+         "name": "Lanthanum",
+         "symbol": "La",
+         "atomicMass": 138.90547,
+         "melting": 920,
+         "boiling": 3464,
+         "yearDiscovery": 1839,
+         "description": "Lanthanum is the first lanthanide, used in optics and catalysts; isolated in 1839. Lanthanum (La, atomic mass 138.90547) has a melting point of 920\u00b0C and a boiling point of 3464\u00b0C. It was first discovered or isolated in 1839. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 58,
+         "name": "Cerium",
+         "symbol": "Ce",
+         "atomicMass": 140.116,
+         "melting": 798,
+         "boiling": 3426,
+         "yearDiscovery": 1803,
+         "description": "Cerium is used in catalytic converters and polishing compounds. Cerium (Ce, atomic mass 140.116) has a melting point of 798\u00b0C and a boiling point of 3426\u00b0C. It was first discovered or isolated in 1803. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 59,
+         "name": "Praseodymium",
+         "symbol": "Pr",
+         "atomicMass": 140.90766,
+         "melting": 931,
+         "boiling": 3403,
+         "yearDiscovery": 1885,
+         "description": "Praseodymium is used in magnets and glass coloration; identified in 1885. Praseodymium (Pr, atomic mass 140.90766) has a melting point of 931\u00b0C and a boiling point of 3403\u00b0C. It was first discovered or isolated in 1885. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 60,
+         "name": "Neodymium",
+         "symbol": "Nd",
+         "atomicMass": 144.242,
+         "melting": 1010,
+         "boiling": 3074,
+         "yearDiscovery": 1885,
+         "description": "Neodymium is critical for strong permanent magnets used in electronics. Neodymium (Nd, atomic mass 144.242) has a melting point of 1010\u00b0C and a boiling point of 3074\u00b0C. It was first discovered or isolated in 1885. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 61,
+         "name": "Promethium",
+         "symbol": "Pm",
+         "atomicMass": 145,
+         "melting": 1042,
+         "boiling": 3000,
+         "yearDiscovery": 1945,
+         "description": "Promethium is a radioactive lanthanide with no stable isotopes; first produced in the 1940s. Promethium (Pm, atomic mass 145) has a melting point of 1042\u00b0C and a boiling point of 3000\u00b0C. It was first discovered or isolated in 1945. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 62,
+         "name": "Samarium",
+         "symbol": "Sm",
+         "atomicMass": 150.36,
+         "melting": 1072,
+         "boiling": 1900,
+         "yearDiscovery": 1879,
+         "description": "Samarium is used in magnets and nuclear control rods; discovered in 1879. Samarium (Sm, atomic mass 150.36) has a melting point of 1072\u00b0C and a boiling point of 1900\u00b0C. It was first discovered or isolated in 1879. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 63,
+         "name": "Europium",
+         "symbol": "Eu",
+         "atomicMass": 151.964,
+         "melting": 822,
+         "boiling": 1529,
+         "yearDiscovery": 1901,
+         "description": "Europium is used in red/blue phosphors for displays; isolated in the early 20th century. Europium (Eu, atomic mass 151.964) has a melting point of 822\u00b0C and a boiling point of 1529\u00b0C. It was first discovered or isolated in 1901. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 64,
+         "name": "Gadolinium",
+         "symbol": "Gd",
+         "atomicMass": 157.25,
+         "melting": 1313,
+         "boiling": 3273,
+         "yearDiscovery": 1880,
+         "description": "Gadolinium is used in MRI contrast agents and electronics; discovered in 1880. Gadolinium (Gd, atomic mass 157.25) has a melting point of 1313\u00b0C and a boiling point of 3273\u00b0C. It was first discovered or isolated in 1880. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 65,
+         "name": "Terbium",
+         "symbol": "Tb",
+         "atomicMass": 158.92535,
+         "melting": 1356,
+         "boiling": 3230,
+         "yearDiscovery": 1843,
+         "description": "Terbium is used in phosphors and solid-state devices. Terbium (Tb, atomic mass 158.92535) has a melting point of 1356\u00b0C and a boiling point of 3230\u00b0C. It was first discovered or isolated in 1843. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 66,
+         "name": "Dysprosium",
+         "symbol": "Dy",
+         "atomicMass": 162.5,
+         "melting": 1412,
+         "boiling": 2567,
+         "yearDiscovery": 1886,
+         "description": "Dysprosium is used in magnets, lasers, and nuclear reactors. Dysprosium (Dy, atomic mass 162.5) has a melting point of 1412\u00b0C and a boiling point of 2567\u00b0C. It was first discovered or isolated in 1886. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 67,
+         "name": "Holmium",
+         "symbol": "Ho",
+         "atomicMass": 164.93033,
+         "melting": 1474,
+         "boiling": 2700,
+         "yearDiscovery": 1878,
+         "description": "Holmium is used in specialty magnets and nuclear control applications. Holmium (Ho, atomic mass 164.93033) has a melting point of 1474\u00b0C and a boiling point of 2700\u00b0C. It was first discovered or isolated in 1878. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 68,
+         "name": "Erbium",
+         "symbol": "Er",
+         "atomicMass": 167.259,
+         "melting": 1529,
+         "boiling": 2868,
+         "yearDiscovery": 1843,
+         "description": "Erbium is used in fiber-optic amplifiers and lasers. Erbium (Er, atomic mass 167.259) has a melting point of 1529\u00b0C and a boiling point of 2868\u00b0C. It was first discovered or isolated in 1843. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 69,
+         "name": "Thulium",
+         "symbol": "Tm",
+         "atomicMass": 168.93422,
+         "melting": 1545,
+         "boiling": 1950,
+         "yearDiscovery": 1879,
+         "description": "Thulium is used in certain lasers and portable X-ray devices. Thulium (Tm, atomic mass 168.93422) has a melting point of 1545\u00b0C and a boiling point of 1950\u00b0C. It was first discovered or isolated in 1879. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 70,
+         "name": "Ytterbium",
+         "symbol": "Yb",
+         "atomicMass": 173.045,
+         "melting": 819,
+         "boiling": 1196,
+         "yearDiscovery": 1878,
+         "description": "Ytterbium is used in atomic clocks and specialty lasers. Ytterbium (Yb, atomic mass 173.045) has a melting point of 819\u00b0C and a boiling point of 1196\u00b0C. It was first discovered or isolated in 1878. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 71,
+         "name": "Lutetium",
+         "symbol": "Lu",
+         "atomicMass": 174.9668,
+         "melting": 1663,
+         "boiling": 3402,
+         "yearDiscovery": 1907,
+         "description": "Lutetium is used in PET scan detectors and catalysts. Lutetium (Lu, atomic mass 174.9668) has a melting point of 1663\u00b0C and a boiling point of 3402\u00b0C. It was first discovered or isolated in 1907. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 72,
+         "name": "Hafnium",
+         "symbol": "Hf",
+         "atomicMass": 178.49,
+         "melting": 2233,
+         "boiling": 4603,
+         "yearDiscovery": 1923,
+         "description": "Hafnium is used in nuclear control rods and high-temperature alloys. Hafnium (Hf, atomic mass 178.49) has a melting point of 2233\u00b0C and a boiling point of 4603\u00b0C. It was first discovered or isolated in 1923. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 73,
+         "name": "Tantalum",
+         "symbol": "Ta",
+         "atomicMass": 180.94788,
+         "melting": 3017,
+         "boiling": 5458,
+         "yearDiscovery": 1802,
+         "description": "Tantalum is used in capacitors and surgical implants; identified in 1802. Tantalum (Ta, atomic mass 180.94788) has a melting point of 3017\u00b0C and a boiling point of 5458\u00b0C. It was first discovered or isolated in 1802. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 74,
+         "name": "Tungsten",
+         "symbol": "W",
+         "atomicMass": 183.84,
+         "melting": 3422,
+         "boiling": 5555,
+         "yearDiscovery": 1781,
+         "description": "Tungsten has the highest melting point among common elements; used in filaments and heavy-duty alloys. Tungsten (W, atomic mass 183.84) has a melting point of 3422\u00b0C and a boiling point of 5555\u00b0C. It was first discovered or isolated in 1781. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 75,
+         "name": "Rhenium",
+         "symbol": "Re",
+         "atomicMass": 186.207,
+         "melting": 3186,
+         "boiling": 5596,
+         "yearDiscovery": 1925,
+         "description": "Rhenium is a rare refractory metal used in superalloys and catalysts. Rhenium (Re, atomic mass 186.207) has a melting point of 3186\u00b0C and a boiling point of 5596\u00b0C. It was first discovered or isolated in 1925. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 76,
+         "name": "Osmium",
+         "symbol": "Os",
+         "atomicMass": 190.23,
+         "melting": 3033,
+         "boiling": 5027,
+         "yearDiscovery": 1803,
+         "description": "Osmium is a very dense metal used in fountain-pen nibs and electrical contacts. Osmium (Os, atomic mass 190.23) has a melting point of 3033\u00b0C and a boiling point of 5027\u00b0C. It was first discovered or isolated in 1803. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 77,
+         "name": "Iridium",
+         "symbol": "Ir",
+         "atomicMass": 192.217,
+         "melting": 2446,
+         "boiling": 4130,
+         "yearDiscovery": 1803,
+         "description": "Iridium is a corrosion-resistant metal used in high-temperature applications and spark plugs. Iridium (Ir, atomic mass 192.217) has a melting point of 2446\u00b0C and a boiling point of 4130\u00b0C. It was first discovered or isolated in 1803. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 78,
+         "name": "Platinum",
+         "symbol": "Pt",
+         "atomicMass": 195.084,
+         "melting": 1768,
+         "boiling": 3825,
+         "yearDiscovery": null,
+         "description": "Platinum is a precious metal used in jewelry and catalysis; known since antiquity. Platinum (Pt, atomic mass 195.084) has a melting point of 1768\u00b0C and a boiling point of 3825\u00b0C. Its discovery dates back to ancient times or is not precisely recorded. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 79,
+         "name": "Gold",
+         "symbol": "Au",
+         "atomicMass": 196.966569,
+         "melting": 1064,
+         "boiling": 2856,
+         "yearDiscovery": null,
+         "description": "Gold is a malleable, highly conductive precious metal used in currency, jewelry, and electronics. Gold (Au, atomic mass 196.966569) has a melting point of 1064\u00b0C and a boiling point of 2856\u00b0C. Its discovery dates back to ancient times or is not precisely recorded. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 80,
+         "name": "Mercury",
+         "symbol": "Hg",
+         "atomicMass": 200.592,
+         "melting": -39,
+         "boiling": 357,
+         "yearDiscovery": null,
+         "description": "Mercury is a liquid metal at room temperature historically used in thermometers and industry. Mercury (Hg, atomic mass 200.592) has a melting point of -39\u00b0C and a boiling point of 357\u00b0C. Its discovery dates back to ancient times or is not precisely recorded. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 81,
+         "name": "Thallium",
+         "symbol": "Tl",
+         "atomicMass": 204.38,
+         "melting": 305,
+         "boiling": 1473,
+         "yearDiscovery": 1861,
+         "description": "Thallium is a soft metal used in electronics and glass; discovered in the 19th century. Thallium (Tl, atomic mass 204.38) has a melting point of 305\u00b0C and a boiling point of 1473\u00b0C. It was first discovered or isolated in 1861. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 82,
+         "name": "Lead",
+         "symbol": "Pb",
+         "atomicMass": 207.2,
+         "melting": 327,
+         "boiling": 1749,
+         "yearDiscovery": null,
+         "description": "Lead is a dense metal used historically in pipes and paints; known since antiquity. Lead (Pb, atomic mass 207.2) has a melting point of 327\u00b0C and a boiling point of 1749\u00b0C. Its discovery dates back to ancient times or is not precisely recorded. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 83,
+         "name": "Bismuth",
+         "symbol": "Bi",
+         "atomicMass": 208.9804,
+         "melting": 271,
+         "boiling": 1564,
+         "yearDiscovery": null,
+         "description": "Bismuth is a brittle metal used in alloys and pharmaceuticals; known since ancient or medieval times. Bismuth (Bi, atomic mass 208.9804) has a melting point of 271\u00b0C and a boiling point of 1564\u00b0C. Its discovery dates back to ancient times or is not precisely recorded. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 84,
+         "name": "Polonium",
+         "symbol": "Po",
+         "atomicMass": 209,
+         "melting": 254,
+         "boiling": 962,
+         "yearDiscovery": 1898,
+         "description": "Polonium is a rare radioactive metalloid discovered by the Curies in 1898. Polonium (Po, atomic mass 209) has a melting point of 254\u00b0C and a boiling point of 962\u00b0C. It was first discovered or isolated in 1898. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 85,
+         "name": "Astatine",
+         "symbol": "At",
+         "atomicMass": 210,
+         "melting": 302,
+         "boiling": 337,
+         "yearDiscovery": 1940,
+         "description": "Astatine is a highly radioactive halogen first synthesized in 1940. Astatine (At, atomic mass 210) has a melting point of 302\u00b0C and a boiling point of 337\u00b0C. It was first discovered or isolated in 1940. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 86,
+         "name": "Radon",
+         "symbol": "Rn",
+         "atomicMass": 222,
+         "melting": -71,
+         "boiling": -62,
+         "yearDiscovery": 1899,
+         "description": "Radon is a radioactive noble gas produced by radium decay; discovered in 1899. Radon (Rn, atomic mass 222) has a melting point of -71\u00b0C and a boiling point of -62\u00b0C. It was first discovered or isolated in 1899. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 87,
+         "name": "Francium",
+         "symbol": "Fr",
+         "atomicMass": 223,
+         "melting": 27,
+         "boiling": 677,
+         "yearDiscovery": 1939,
+         "description": "Francium is a highly radioactive alkali metal observed in 1939; extremely rare. Francium (Fr, atomic mass 223) has a melting point of 27\u00b0C and a boiling point of 677\u00b0C. It was first discovered or isolated in 1939. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 88,
+         "name": "Radium",
+         "symbol": "Ra",
+         "atomicMass": 226,
+         "melting": 700,
+         "boiling": 1737,
+         "yearDiscovery": 1898,
+         "description": "Radium is a radioactive alkaline earth metal discovered by the Curies; historic luminous paint use. Radium (Ra, atomic mass 226) has a melting point of 700\u00b0C and a boiling point of 1737\u00b0C. It was first discovered or isolated in 1898. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 89,
+         "name": "Actinium",
+         "symbol": "Ac",
+         "atomicMass": 227,
+         "melting": 1050,
+         "boiling": 3200,
+         "yearDiscovery": 1899,
+         "description": "Actinium is a radioactive actinide discovered in 1899; used in research. Actinium (Ac, atomic mass 227) has a melting point of 1050\u00b0C and a boiling point of 3200\u00b0C. It was first discovered or isolated in 1899. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 90,
+         "name": "Thorium",
+         "symbol": "Th",
+         "atomicMass": 232.0377,
+         "melting": 1750,
+         "boiling": 4820,
+         "yearDiscovery": 1829,
+         "description": "Thorium is a radioactive actinide investigated for nuclear fuel; identified in 1829. Thorium (Th, atomic mass 232.0377) has a melting point of 1750\u00b0C and a boiling point of 4820\u00b0C. It was first discovered or isolated in 1829. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 91,
+         "name": "Protactinium",
+         "symbol": "Pa",
+         "atomicMass": 231.03588,
+         "melting": 1572,
+         "boiling": 4000,
+         "yearDiscovery": 1913,
+         "description": "Protactinium is a scarce radioactive actinide discovered in 1913; used in research. Protactinium (Pa, atomic mass 231.03588) has a melting point of 1572\u00b0C and a boiling point of 4000\u00b0C. It was first discovered or isolated in 1913. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 92,
+         "name": "Uranium",
+         "symbol": "U",
+         "atomicMass": 238.02891,
+         "melting": 1132,
+         "boiling": 4131,
+         "yearDiscovery": 1789,
+         "description": "Uranium is a heavy radioactive element used in nuclear power and weapons; discovered in 1789. Uranium (U, atomic mass 238.02891) has a melting point of 1132\u00b0C and a boiling point of 4131\u00b0C. It was first discovered or isolated in 1789. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 93,
+         "name": "Neptunium",
+         "symbol": "Np",
+         "atomicMass": 237,
+         "melting": 644,
+         "boiling": 3902,
+         "yearDiscovery": 1940,
+         "description": "Neptunium is the first transuranic element, synthesized in 1940; radioactive. Neptunium (Np, atomic mass 237) has a melting point of 644\u00b0C and a boiling point of 3902\u00b0C. It was first discovered or isolated in 1940. It plays a significant role in modern industry, research, and practical applications across various fields."
+      },
+      {
+         "id": 94,
+         "name": "Plutonium",
+         "symbol": "Pu",
+         "atomicMass": 244.0,
+         "melting": 639,
+         "boiling": 3235,
+         "yearDiscovery": 1940,
+         "description": "Plutonium is a radioactive actinide central to nuclear energy and weapons; first produced in 1940\u201341. Plutonium (Pu, atomic mass 244.0) has a melting point of 639\u00b0C and a boiling point of 3235\u00b0C. It was first discovered or isolated in 1940. It plays a significant role in modern industry, research, and practical applications across various fields."
+      }
+   ]
+}
